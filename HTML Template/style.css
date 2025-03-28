@@ -37,27 +37,27 @@ button, button:focus {
 
 /* Color Template  */
 .color-primary {
-  color: #003859;
+  color: #e5e2db;
 }
 
 .color-primary-bg {
-  background: #003859;
+  background: #e5e2db;
 }
 
 .color-second {
-  color: #00A5C4;
+  color: #0b2735
 }
 
 .color-second-bg {
-  background: #00A5C4;
+  background: #0b2735;
 }
 
 .color-yellow {
-  color: #FFD289;
+  color: #efb291
 }
 
 .color-yellow-bg {
-  background: #FFD289;
+  background: #efb291;
 }
 
 /*  top sale template   */
