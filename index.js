@@ -1,3 +1,5 @@
+// I Have used Jquery for my java script code
+
 $(document).ready(function(){
 
     // banner owl carousel
